@@ -3,8 +3,8 @@ Changelog
 
 .. currentmodule:: flask_restplus
 
-Current
--------
+0.10.0 (2017-03-01)
+-------------------
 
 - add vendor extension support (:issue:`97`)
 
